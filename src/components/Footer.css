@@ -1,0 +1,8 @@
+.footer{
+    background-color: rgb(202, 190, 190);
+    font-size: 13px;
+    
+}
+.about,.coffee,.menu,.rewards,.contact{
+    font-weight: bolder;
+}
